@@ -1,10 +1,7 @@
 <?php
-// Copyright Disclaimer EULA:
-/*Importante. Lea detenidamente.
-KaitoDoDo™ Software (“LuckyWars”)
-Contrato de Licencia de Software de Usuario Final (“EULA”):
-Según los distintos componentes de software de código abierto autorizados y según los términos de acuerdos aplicables de licencia de código abierto, el Software de código abierto está compuesto por componentes de software individuales, cada uno de los cuales cuenta con su propio derecho de autor y sus propias condiciones de licencia aplicable. Este Software es de código abierto, que incluye contenido creado por KaitoDoDo que no se puede modificar (Any redistribution of this can be penalized):
- * Más información en: http://www.licenciasonline.com/
+// :
+/*.
+ * /
  * */
 namespace LuckyWars;
 
