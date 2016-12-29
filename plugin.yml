@@ -1,8 +1,8 @@
 name: LuckyWars
 main: LuckyWars\LuckyWars
-author: KaitoDoDo, GamaK
-version: 2.0.0 Subnor
-api: [1.0.0, 2.0.0]
+author: Jonas229
+version: 1.0.0
+api: [3.0.0-ALPHA1, 2.0.0]
 
 commands:
     lw:
